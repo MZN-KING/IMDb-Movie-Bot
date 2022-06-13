@@ -48,8 +48,7 @@ add optional larger result buttons:
 * Check [info.py](info.py) for more
 
 ## 🟪 Deploy on Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fhansakabro.tk%2F&template=https%3A%2F%2Fgithub.com%2FMZN-KING%2FTg-MusicDownloaderBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=http%3A%2F%2Fhansakabro.tk%2F&template=https%3A%2F%2Fgithub.com%2FMZN-KING%2FIMDb-Movie-Bot)
 
 
 ## Admin commands
