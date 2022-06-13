@@ -308,7 +308,7 @@ Music download modules, for those who love music.
 
 <b>YouTube Thumbnail Download</b>
 • /ytthumb (youtube link)
-<b>Example:</b> <code>/ytthumb https://youtu.be/h6PtzFYaMxQ</code>
+<b>Example:</b> <code>/ytthumb https://youtu.be/XXXXXXXXXX</code>
 
 <b>NOTE:</b>
 • IMDb should have admin privillage.
