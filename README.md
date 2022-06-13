@@ -47,8 +47,9 @@ add optional larger result buttons:
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made. Separate multiple IDs by space
 * Check [info.py](info.py) for more
 
-## Deploy
-(Deploy to heroku[https://www.herokucdn.com/deploy/button.svg)]
+## 🟪 Deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fhansakabro.tk%2F&template=https%3A%2F%2Fgithub.com%2FMZN-KING%2FTg-MusicDownloaderBot)
 
 
 ## Admin commands
