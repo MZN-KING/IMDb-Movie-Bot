@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/JOSProjects/IMDb-Movie-Bot",
-    "repository": "https://github.com/JOSProjects/IMDb-Movie-Bot",
+    "website": "https://github.com/MZN-KING/IMDb-Movie-Bot",
+    "repository": "https://github.com/MZN-KING/IMDb-Movie-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -55,11 +55,11 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/nj-lJfkgb6w",
+            "description": "mongoDB URI. Get this value from https://www.mongodb.com",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/nj-lJfkgb6w",
+            "description": "Name of the database in mongoDB.",
             "required": false
         },
         "COLLECTION_NAME": {
