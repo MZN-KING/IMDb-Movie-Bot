@@ -27,7 +27,7 @@ Source: <a href='https://github.com/MZN-KING/IMDb-Movie-Bot'>GitHub - Click here
 - <a href='https://t.me/mznbots'>Mzn Bots</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+XwUSqAuJBYY4MjE1'>Mzn Movie Club</a>"""
+- <a href='https://t.me/TaMoviesWorld'>Movies Club 2022</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
